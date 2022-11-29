@@ -1,7 +1,7 @@
 package ru.netology
 
 fun main() {
-    String
+
     val commission= 0.0075
     val commissionMinimum = 35
     val count = 1_000
